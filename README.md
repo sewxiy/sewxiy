@@ -11,7 +11,7 @@
 ![](https://skillicons.dev/icons?i=python,vscode,linux,git,github,githubactions,flask,html,markdown,sqlite,mysql,postgres,redis)
 
 <p align="center">
-  <a href="https://t.me/Abishnoi1M"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+  <a href="https://t.me/cosmic_freak"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
 <p align="center">
 
@@ -27,9 +27,6 @@
 
     
 <h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
-
-
-# Reach Me 
 
 <p align="center">
 <a href="https://telegram.me/cosmic_freak"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
