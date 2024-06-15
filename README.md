@@ -1,6 +1,6 @@
 ## Hello There! 👋
 
-### I'm Dev Arora, A Commerce Student. Currently In Class 12th.
+### I'm Subaru, A Commerce Student. Currently In Class 12th.
 
 ### I'm Currently Learning Python(Pyrogram Library).
 
