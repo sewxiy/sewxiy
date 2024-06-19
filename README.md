@@ -2,7 +2,7 @@
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/codeflix-bots/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/sewxiy/count.svg" />
 </p>
 
 <h1>ʜɪ ! ɪᴛ's ᴍᴇ sᴜʙᴀʀᴜ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
